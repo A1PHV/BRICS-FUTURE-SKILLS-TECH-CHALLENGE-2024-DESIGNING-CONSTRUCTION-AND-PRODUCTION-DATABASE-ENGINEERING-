@@ -65,9 +65,9 @@
 [Тable](https://docs.google.com/spreadsheets/d/11EvWEyuFIVLWnHRkrs40eNkXgBEI7as9F1RAO528Gh0/edit?gid=0#gid=0)
 
 ### System requirements:
-- Ensure the delivery of goods within a radius of 15 km;
+  - Ensure the delivery of goods within a radius of 15 km;
   - To ensure the required flight time (30 minutes);
-- To ensure operation on sites with minimal preparation;
+  - To ensure operation on sites with minimal preparation;
   - To ensure the delivery of cargo (landing) to unprepared sites;
   - Ensure operation by an operator with minimal education;
   - Autonomous flight.
