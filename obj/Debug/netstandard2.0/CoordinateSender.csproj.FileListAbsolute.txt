@@ -1,0 +1,17 @@
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\bin\Debug\netstandard2.0\CoordinateSender.deps.json
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\bin\Debug\netstandard2.0\CoordinateSender.dll
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\bin\Debug\netstandard2.0\CoordinateSender.pdb
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\CoordinateSender.csproj.AssemblyReference.cache
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\CoordinateSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\CoordinateSender.AssemblyInfoInputs.cache
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\CoordinateSender.AssemblyInfo.cs
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\CoordinateSender.csproj.CoreCompileInputs.cache
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\CoordinateSender.dll
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\refint\CoordinateSender.dll
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\CoordinateSender.pdb
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\ref\CoordinateSender.dll
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\pra3t\source\repos\CoordinateSender\CoordinateSender\CoordinateSender\obj\Debug\netstandard2.0\RoutesPage.xaml.g.cs
