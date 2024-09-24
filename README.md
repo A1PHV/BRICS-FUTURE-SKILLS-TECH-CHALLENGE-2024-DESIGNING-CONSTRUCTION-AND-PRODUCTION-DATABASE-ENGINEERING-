@@ -26,6 +26,14 @@
 ### Таблица:
 [Таблица](https://docs.google.com/spreadsheets/d/11EvWEyuFIVLWnHRkrs40eNkXgBEI7as9F1RAO528Gh0/edit?gid=0#gid=0)
 
+### Требования к системе:
+  - Обеспечить доставку грузов в радиусе 15 км;
+  - Обеспечить потребного времени полета (30 мин.);
+  - Обеспечить эксплуатацию на площадках с минимальной подготовкой;
+  - Обеспечить доставку груза (приземления) на неподготовленные площадки;
+  - Обеспечить эксплуатацию оператором с минимальным образованием;
+  - Автономный полет.
+
 # BRICS-FUTURE-SKILLS-TECH-CHALLENGE-2024-DESIGNING-CONSTRUCTION-AND-PRODUCTION-DATABASE-ENGINEERING
 ### Project name:
   Sagittarius
@@ -55,3 +63,11 @@
 
 ### Table:
 [Тable](https://docs.google.com/spreadsheets/d/11EvWEyuFIVLWnHRkrs40eNkXgBEI7as9F1RAO528Gh0/edit?gid=0#gid=0)
+
+### System requirements:
+- Ensure the delivery of goods within a radius of 15 km;
+  - To ensure the required flight time (30 minutes);
+- To ensure operation on sites with minimal preparation;
+  - To ensure the delivery of cargo (landing) to unprepared sites;
+  - Ensure operation by an operator with minimal education;
+  - Autonomous flight.
