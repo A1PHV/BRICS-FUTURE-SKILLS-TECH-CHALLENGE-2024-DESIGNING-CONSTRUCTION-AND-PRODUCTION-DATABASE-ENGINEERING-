@@ -24,9 +24,8 @@ namespace ServerBaseForDrones.Controllers
             return Ok(new { message = "Drone added successfully", drone });
         }
 
-        // Метод для обновления состояния дрона
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateDroneStatus(int id, [FromBody] string status)
+        public async Task<IActionResult> UpdateDroneStatus(int id, [FromBody] UpdateDroneStatusDto dto)
         {
             var drone = await _context.Drones.FindAsync(id);
 
@@ -35,7 +34,7 @@ namespace ServerBaseForDrones.Controllers
                 return NotFound(new { message = "Drone not found" });
             }
 
-            drone.Status = status;
+            drone.Status = dto.Status;
             await _context.SaveChangesAsync();
             return Ok(new { message = "Drone status updated successfully", drone });
         }
