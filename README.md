@@ -35,7 +35,8 @@
 Результаты расчетов и 3д модель в различных форматах приложены в репозитории.
 Фото летных испытаний можно найти в репозитории, а также по [ссылке на яндекс диске](https://disk.yandex.ru/d/UMUnpoecSOcVCQ).
 
-итоговый отчёт представлен в различных форматах в корневой папке.
+##итоговый отчёт представлен в различных форматах в корневой папке.
+
 # BRICS-FUTURE-SKILLS-TECH-CHALLENGE-2024-DESIGNING-CONSTRUCTION-AND-PRODUCTION-DATABASE-ENGINEERING
 ### Project name:
   Sagittarius
